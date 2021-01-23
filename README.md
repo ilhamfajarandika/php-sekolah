@@ -1,2 +1,1 @@
-# php-sekolah
-Membuat Aplikasi Restoran
+# Membuat Aplikasi Restoran
